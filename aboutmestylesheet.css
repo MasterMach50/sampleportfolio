@@ -1,5 +1,7 @@
 body {
     margin: 0px;
+    background-image: url(pine.jpg);
+    background-position: center;
 }
 
 .nav-wrapper {
